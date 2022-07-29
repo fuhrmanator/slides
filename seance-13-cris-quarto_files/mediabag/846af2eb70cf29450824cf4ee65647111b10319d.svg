@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="602px" preserveAspectRatio="none" style="width:538px;height:602px;background:#00000000;" version="1.1" viewBox="0 0 538 602" width="538px" zoomAndPan="magnify"><defs/><g><!--MD5=[b02ba6fdf0f59e0142cfc0c33806eebc]
+cluster Browser moderne--><g id="cluster_Browser moderne"><polygon points="262,28,272,18,500,18,500,165,490,175,262,175,262,28" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="490" x2="500" y1="28" y2="18"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="262" x2="490" y1="28" y2="28"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="490" x2="490" y1="28" y2="175"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="126" x="314" y="45.5332">Browser moderne</text></g><!--MD5=[0c5ebc11d1f9055b162fb809766bcc2a]
+cluster Système de gestion\ndes apprentissages\n(SGA)--><g id="cluster_Système de gestion\ndes apprentissages\n(SGA)"><polygon points="16,16,26,6,231,6,231,575,221,585,16,585,16,16" style="stroke:#181818;stroke-width:1.0;fill:none;"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="221" x2="231" y1="16" y2="6"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="16" x2="221" y1="16" y2="16"/><line style="stroke:#181818;stroke-width:1.0;fill:none;" x1="221" x2="221" y1="16" y2="585"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="70" x="84.5" y="33.5332">«Système»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="138" x="50.5" y="51.1426">Système de gestion</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="139" x="50" y="68.752">des apprentissages</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="39" x="100" y="86.3613">(SGA)</text></g><!--MD5=[a7e36d4aa44b43fc8fb02c9c2fa0b819]
+cluster SGB--><g id="cluster_SGB"><polygon fill="#999999" points="300,226,310,216,521,216,521,440,511,450,300,450,300,226" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="511" x2="521" y1="226" y2="216"/><line style="stroke:#181818;stroke-width:1.0;" x1="300" x2="511" y1="226" y2="226"/><line style="stroke:#181818;stroke-width:1.0;" x1="511" x2="511" y1="226" y2="450"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="70" x="371.5" y="243.5332">«Système»</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="138" x="337.5" y="261.1426">Système de gestion</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="103" x="355" y="278.752">des borderaux</text><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="386.5" y="296.3613">(SGB)</text></g><!--MD5=[beb5ad5244d3d849df9473931f7c2e5e]
+entity GUI--><g id="elem_GUI"><rect fill="#F1F1F1" height="100.4375" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="205" x="278.5" y="59"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="463.5" y="64"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="461.5" y="66"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="461.5" y="70"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="293.5" y="93.5332">Application frontale</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="154" x="293.5" y="111.1426">minimaliste, par exemple</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="293.5" y="128.752">les pages web (templates)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="293.5" y="146.3613">et un peu de JavaScript</text></g><!--MD5=[953a8c67cfe21abaf9bf45dad8506ca8]
+entity Router--><g id="elem_Router"><ellipse cx="123" cy="109" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="54" x="96" y="140.5332">Routage</text></g><!--MD5=[6e8f311b0aa23032184ffba0ef926f91]
+entity App--><g id="elem_App"><rect fill="#F1F1F1" height="82.8281" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="178" x="34" y="330.5"/><rect fill="#F1F1F1" height="10" style="stroke:#181818;stroke-width:0.5;" width="15" x="192" y="335.5"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="190" y="337.5"/><rect fill="#F1F1F1" height="2" style="stroke:#181818;stroke-width:0.5;" width="4" x="190" y="341.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="119" x="49" y="365.0332">Application conçue</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="49" y="382.6426">selon la méthodologie</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="49" y="400.252">proposée par Larman</text></g><!--MD5=[0f236602209a03542e21b89873b828ef]
+entity SimpleDB--><g id="elem_SimpleDB"><path d="M87.5,515 C87.5,505 123,505 123,505 C123,505 158.5,505 158.5,515 L158.5,559.2188 C158.5,569.2188 123,569.2188 123,569.2188 C123,569.2188 87.5,569.2188 87.5,559.2188 L87.5,515 " fill="#F1F1F1" style="stroke:#181818;stroke-width:0.5;"/><path d="M87.5,515 C87.5,525 123,525 123,525 C123,525 158.5,525 158.5,515 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="51" x="97.5" y="543.5332">Solution</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="97.5" y="561.1426">simple</text></g><g id="elem_SGBNote"><path d="M343.5,318 L343.5,426.1094 L496.5,426.1094 L496.5,328 L486.5,318 L343.5,318 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M486.5,318 L486.5,328 L496.5,328 L486.5,318 " fill="#FEFFDD" style="stroke:#181818;stroke-width:1.0;"/><path d="M354.8333,327.4349 C352.4392,327.4349 350.5,329.3741 350.5,331.7682 C350.5,334.1624 352.4392,336.1016 354.8333,336.1016 C357.2275,336.1016 359.1667,334.1624 359.1667,331.7682 C359.1667,329.3741 357.2275,327.4349 354.8333,327.4349 M354.8333,328.5182 L354.8333,330.6849 L358.0833,330.6849 L358.0833,332.8516 L354.8333,332.8516 L354.8333,335.0182 L351.5833,331.7682 L354.8333,328.5182 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="91" x="364.1667" y="336.4951">Source pour les</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="110" x="349.5" y="352.8467">infos sur les cours,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="104" x="349.5" y="369.1982">les étudiants, etc.</text><path d="M354.8333,376.4896 C352.4392,376.4896 350.5,378.4288 350.5,380.8229 C350.5,383.2171 352.4392,385.1563 354.8333,385.1563 C357.2275,385.1563 359.1667,383.2171 359.1667,380.8229 C359.1667,378.4288 357.2275,376.4896 354.8333,376.4896 M354.8333,377.5729 L358.0833,380.8229 L354.8333,384.0729 L354.8333,381.9063 L351.5833,381.9063 L351.5833,379.7396 L354.8333,379.7396 L354.8333,377.5729 " fill="#000000" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="115" x="364.1667" y="385.5498">Destination pour les</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="132" x="349.5" y="401.9014">résultats des question-</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="98" x="349.5" y="418.2529">naires et devoirs.</text></g><!--MD5=[56b72e7de0968c0cf25972f053180467]
+reverse link Router to GUI--><g id="link_Router_GUI"><path d="M142.49,109 C171.43,109 227.78,109 278.44,109 " fill="none" id="Router-backto-GUI" style="stroke:#181818;stroke-width:1.0;"/><path d="M135.2582,117.4572 A9,9 0 0 0 135.2582 100.5428" fill="none" style="stroke:#181818;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="110" x="150.25" y="102.4951">API REST niveau 1</text></g><!--MD5=[ee207bd21a41d647759085e7fca34991]
+link Router to App--><g id="link_Router_App"><path d="M123,118.1 C123,149.85 123,267.19 123,330.27 " fill="none" id="Router-App" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b87fad3cf41de54d892cd606074f6fe5]
+link App to SimpleDB--><g id="link_App_SimpleDB"><path d="M123,413.71 C123,441.91 123,478.88 123,504.76 " fill="none" id="App-SimpleDB" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8ceabf8ea623773f41dcf93e05bd7474]
+link App to SGB--><g id="link_App_SGB"><path d="M212.25,372 C234.425,372 256.85,372 274.4175,372 C283.2013,372 290.7706,372 296.4872,372 C297.2018,372 297.8874,372 298.5428,372 C298.8705,372 299.1907,372 299.5031,372 C299.6594,372 299.8137,372 299.966,372 " fill="none" id="App-SGB" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="59" x="230.32" y="365.4951">API REST</text></g><!--MD5=[af42ac2e5ebf15d391d5c79f0ce08ce1]
+@startuml
+skinparam style strictuml
+skinparam backgroundcolor transparent
+skinparam componentStyle uml2
+
+node "Browser moderne" {
+    component [Application frontale\nminimaliste, par exemple\nles pages web (templates)\net un peu de JavaScript] as GUI
+}
+
+node "Système de gestion\ndes apprentissages\n(SGA)" <<Système>> {
+    interface Routage as Router
+
+    [Application conçue\nselon la méthodologie\nproposée par Larman] as App
+
+    database "Solution\nsimple" as SimpleDB {
+    } 
+}
+
+node "Système de gestion\ndes borderaux\n(SGB)" as SGB <<Système>> #999999 {
+note as SGBNote
+<&arrow-circle-left> Source pour les
+infos sur les cours, 
+les étudiants, etc.
+<&arrow-circle-right> Destination pour les
+résultats des question-
+naires et devoirs.
+end note
+}
+
+
+GUI -left-( Router : API REST niveau 1
+Router -down- App
+App -down- SimpleDB
+App -right- SGB : API REST
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 06:55:52 EDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="46px" preserveAspectRatio="none" style="width:158px;height:46px;background:#00000000;" version="1.1" viewBox="0 0 158 46" width="158px" zoomAndPan="magnify"><defs/><g><!--MD5=[f3eb92fbe281962d2fef99055702ca44]
+class Fred--><g id="elem_Fred"><rect codeLine="4" fill="#F1F1F1" height="27.6094" id="Fred" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="36" x="7" y="13.3564"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="10" y="32.8896">Fred</text></g><!--MD5=[f5fa11457b8ca2a90a6586a70e1f2548]
+class Joe--><g id="elem_Joe"><rect codeLine="5" fill="#F1F1F1" height="27.6094" id="Joe" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="28" x="123" y="13.3564"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="22" x="126" y="32.8896">Joe</text></g><!--MD5=[781da1e5616c4a3f427f441e021988a3]
+link Fred to Joe--><g id="link_Fred_Joe"><path codeLine="6" d="M43.49,27.3564 C65.74,27.3564 102.59,27.3564 122.75,27.3564 " fill="none" id="Fred-Joe" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="43" x="61.5" y="20.8516">creates</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="7" x="51.0491" y="22.2291">1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="5" x="110.0031" y="21.3232">*</text></g><!--MD5=[18951d42e461c037c3e5947910a909f1]
+@startuml
+skinparam style strictuml
+skinparam backgroundcolor transparent
+hide empty members
+class Fred
+class Joe
+Fred "1" - "*" Joe : creates
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 06:55:52 EDT 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CA
+--></g></svg>
